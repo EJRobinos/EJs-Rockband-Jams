@@ -29,3 +29,4 @@ Edit `songs.js`. Each entry uses:
 ```js
 { "artist": "Linkin Park", "title": "Crawling" }
 ```
+GitHub Pages deployment enabled.
