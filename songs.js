@@ -456,8 +456,20 @@ window.SONGS = [
     "title": "Mainstream Kid"
   },
   {
+      "artist": "Breaking Benjamin",
+    "title": "The Diary of Jane"
+  },
+  {
+      "artist": "Breaking Benjamin",
+    "title": "So Cold"
+  },
+  {
+      "artist": "Breaking Benjamin",
+    "title": "Mainstream Kid"
+  },
+  {
     "artist": "Breaking Wheel",
-    "title": "Shoulder to the Plow"
+    "title": "I Will Not Bow"
   },
   {
     "artist": "Bryan Adams",
